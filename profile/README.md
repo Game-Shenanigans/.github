@@ -1,12 +1,15 @@
-## Hi there 👋
+# Welcome to Game Shenanigans!
 
-<!--
+> "Shenanigans - high-spirited or mischievous activity." 
 
-**Here are some ideas to get you started:**
+This organization houses a body of personal indie game projects.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Vision
+To make games that are fun and unburdened by malicious pricing schemes.
+
+# Games
+## 2022
+🎮 Try out a short [2D Action RPG](https://github.com/Game-Shenanigans/Tivernum-Game) 🎮   
+🎲 Try out an original [Dice Game](https://github.com/Game-Shenanigans/Dice-Game) 🎲   
+
+## More Coming Soon!
