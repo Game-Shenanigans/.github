@@ -9,10 +9,11 @@ To make games that are fun and unburdened by malicious pricing schemes.
 
 # Games
 ## 2023
-🌠 Play a [2D Puzzle Platformer](https://game-shenanigans.itch.io/starfall) gamejam submission about falling stars 🌠
+🌠 Dodge falling stars in this [2D Puzzle Platformer](https://game-shenanigans.itch.io/starfall) "Do you WANNA Jam 2023" submission🌠
+🧛Try to survive in this [2D Action](https://game-shenanigans.github.io/SoulJam2023/) "SoulJam 2023" submission 🧛
 
 ## 2022
 🎮 Play a [2D Action RPG](https://github.com/Game-Shenanigans/Tivernum-Game) create from a Udemy course 🎮   
-🎲 Play a [Dice Puzzle](https://github.com/Game-Shenanigans/Dice-Game) gamejam submission 🎲   
+🎲 Play a [Dice Puzzle](https://github.com/Game-Shenanigans/Dice-Game) "GamesPlusJam 2023" submission 🎲   
 
 ## More Coming Soon!
